@@ -538,7 +538,7 @@ footer{
 }
 
 #minimizeChat{
-    position: absolute;
+    position: fixed;
     display: flex;
     z-index: 20;
     bottom: 0px;
