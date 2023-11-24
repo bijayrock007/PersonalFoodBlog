@@ -540,8 +540,8 @@ footer{
     position: fixed;
     display: flex;
     z-index: 20;
-    top: 20%;
-    right: 10px;
+    top: 0px;
+    right: 0px;
     width: 12vw;
     height: 45px;
     border-radius: 5px;
