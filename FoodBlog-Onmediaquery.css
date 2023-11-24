@@ -488,8 +488,8 @@ footer{
     position: fixed;
     display: flex;
     z-index: 20;
-    top: 20%;
-    right: 5px;
+    botoom: 0px;
+    right: 0px;
     width: 20vw;
     height: 45px;
     border-radius: 5px;
@@ -506,7 +506,7 @@ footer{
     border: 2px solid gray;
     position: fixed;
     right: 0px;
-    top: 20%;
+    botom: 0px;
     z-index: 20;
     font-family: var(--fontfamily);
     
